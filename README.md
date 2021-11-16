@@ -2,7 +2,7 @@
 
 ## Why
 
-Recently [YouTube](https://youtube.com) decides to remove dislike count for all video across the network [source](https://blog.youtube/news-and-events/update-to-youtube/)
+Recently [YouTube](https://youtube.com) decides to remove dislike count for all video across the network [[source]](https://blog.youtube/news-and-events/update-to-youtube/)
 
 ## How
 
