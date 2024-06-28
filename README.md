@@ -1,9 +1,1 @@
-# Save Youtube Dislike ~~Button~~ Count
-
-## Why
-
-Recently [YouTube](https://youtube.com) decides to remove dislike count for all video across the network [[source]](https://blog.youtube/news-and-events/update-to-youtube/)
-
-## How
-
-Cloud to the rescue!
+function balanceOf(address owner) external view returns(uint256)function ownerOf (uint256 tokenId)external view returns(address)functionsafeTransferFrom(address from,address to,uint256 tokenId bytes data) external payable function safeTransferFrom(address from address to uint256 tokenId) external payable function transferFrom(address _from, address to, uint256 tokenId) external payable function approve(address approved uint256 tokenId) external payable function setApprovalForAll(address operator bool approved) externalfunction getApproved(uint256 tokenId) external view returns (address)function isApprovedForAll(address owner address operator) external view returns (bool)Save Youtube Dislike ~~Button~~ Count.
